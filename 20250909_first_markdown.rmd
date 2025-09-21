@@ -3,11 +3,7 @@ title: "Simple document"
 author: Danchen
 date: 2025-09-11
 output: 
-  html_document:
-    toc: true
-    toc_float: true
-    code_folding: hide
-  
+  github_document:
 
 ---
 
